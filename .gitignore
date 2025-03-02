@@ -19,7 +19,3 @@ dist/
 # PyCharm / VSCode specific files
 .idea/
 .vscode/
-
-# Data files (if not using a data versioning tool)
-data/raw/
-data/processed/
